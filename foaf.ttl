@@ -2,7 +2,7 @@
       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
       xmlns:foaf="http://xmlns.com/foaf/0.1/"
-      xml:base="https://github.com/petrovskifilip/vbsFoaf/edit/main/foaf.ttl"
+      xml:base="https://raw.githubusercontent.com/petrovskifilip/vbsFoaf/main/foaf.ttl"
       xmlns:admin="http://webns.net/mvcb/">
 <foaf:PersonalProfileDocument rdf:about="">
   <foaf:maker rdf:resource="#me"/>
